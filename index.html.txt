@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head> 
+ 
+<title>Mi Presentación</title>
+  
+<style>
+   
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    
+    p {
+      color: #666;
+      margin-bottom: 20px;
+    }
+  </style>
+
+</
+</head>
+<body>
+  
+  <
+ 
+<h1>Mi Presentación</h1>  
+  
+  <
+  
+<p>Bienvenidos a mi presentación. Aquí les mostraré algunas cosas interesantes.</p>
+     
+<h2>Sección 1</h2>
+    
+  <
+   
+<p>Esta es la primera sección de mi presentación. Aquí puedes agregar texto , imágenes o cualquier otro contenido que desees mostrar.</p>
+    
+  <
+
+  
+<h2>Sección 2</h2>
+  
+  
+<p>Esta es la segunda sección. Puedes agregar más información relevante aquí.</p>
+   
+ 
+<h2>Sección 3</h2>
+  
+  
+  <
+
+<p>Y esta es la tercera sección de mi presentación.</p>
+  
+  
+  <
+
+ 
+<p>¡Gracias por su atención lissto!</p>
+
+</body
+
+</
+</body>
+
+</html
+
+</
+</html>
